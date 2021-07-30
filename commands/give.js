@@ -5,7 +5,7 @@ module.exports = {
   permissions: ["ADMINISTRATOR"],
   description: "give a player some coins",
   async execute(message, args, cmd, client, discord, profileData) {
-    if (message.member.id != "719414967803052053") return message.channel.send(`Sorry only **Alesh** can run this command 😔`);
+    if (message.member.id != "YOUR USER ID") return message.channel.send(`Sorry only **** can run this command 😔`);
     if (!args.length) return message.channel.send("You need to mention a player to give them coins");
     const amount = args[1];
     const target = message.mentions.users.first();
