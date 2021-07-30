@@ -1,4 +1,4 @@
-# Discord Bot
+# DBT Discord Bot
 
 # What is this?
 ![UpTopImage](https://user-images.githubusercontent.com/75545991/127597772-870c377a-3811-449a-adec-2318df370032.png)
@@ -81,5 +81,4 @@ node .
 And you are all done!
 
 # More Info
-Join the **[discord server](https://discord.gg/PrKvbYGEfC)**!
-Subscribe to **[Discord Bot Tutorials](https://www.youtube.com/channel/UCQqkYv3qVlpvc4_n1M8PA4w)**!
+Join the **[discord server](https://discord.gg/PrKvbYGEfC)** and subscribe to **[Discord Bot Tutorials](https://www.youtube.com/channel/UCQqkYv3qVlpvc4_n1M8PA4w)**!
