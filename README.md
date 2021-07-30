@@ -58,7 +58,7 @@ git clone https://github.com/DiscordBotTutorials/DBT-Discord-Bot.git
 ```
 3. Then type this.
 ```
-cd DBT-Discord-Bot
+cd DBT-Discord-Bot-V12
 ```
 
 4. Then type this.
