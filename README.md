@@ -80,5 +80,7 @@ node .
 
 And you are all done!
 
+**Please note that you will need to make some changes in ticket.js and give.js.**
+
 # More Info
 Join the **[discord server](https://discord.gg/PrKvbYGEfC)** and subscribe to **[Discord Bot Tutorials](https://www.youtube.com/channel/UCQqkYv3qVlpvc4_n1M8PA4w)**!
