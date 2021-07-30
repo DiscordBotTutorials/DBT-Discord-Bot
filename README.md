@@ -3,7 +3,7 @@
 # What is this?
 ![UpTopImage](https://user-images.githubusercontent.com/75545991/127600018-7940bd01-e2a8-498b-b06f-07158d86e905.png)
 
-This is a bot is made with **[discord.js](https://discord.js.org/#/)** and has a music system, an economy system, and a ticket system. I suggest you don't use this but you can only use it if you give credit. This is just a source code for a bot. Some of the bots that use this source code has more commands. 
+This is a bot is made with **[discord.js](https://discord.js.org/#/)** and that has a music system, an economy system, and a ticket system. I suggest you don't use this but you can only use it if you give credit. This is just a source code for a bot. Some of the bots that use this source code has more commands. 
 
 # Commands
 
