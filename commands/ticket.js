@@ -5,7 +5,7 @@ module.exports = {
   description: "open a ticket!",
   async execute(message, args, cmd, client, discord) {
     const channel = await message.guild.channels.create(`ticket: ${message.author.tag}`);
-    channel.setParent("Category ID");
+    channel.setParent("CATEGORY ID");
 
     channel.updateOverwrite(message.guild.id, {
       SEND_MESSAGE: false,
