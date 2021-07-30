@@ -1,7 +1,7 @@
 # Discord Bot
 
 # What is this?
-![UptopImage](https://user-images.githubusercontent.com/75545991/127597772-870c377a-3811-449a-adec-2318df370032.png)
+![UpTopImage](https://user-images.githubusercontent.com/75545991/127597772-870c377a-3811-449a-adec-2318df370032.png)
 
 This is a bot is made with **[discord.js](https://discord.js.org/#/)** and has a music system, an economy system, and a ticket system. I suggest you don't use this but you can only use it if you give credit. This is just a source code for a bot. Some of the bots that use this source code has more commands. 
 
@@ -38,21 +38,28 @@ Image 2:
 
 1. Go to **[Visual Studio Code](https://code.visualstudio.com/)**.
 
-2. Next copy the github link. 
-
+2. Next open terminal and type this.
+```
+git clone https://github.com/DiscordBotTutorials/DBT-Discord-Bot.git
+```
 3. Then type this.
+```
+cd DBT-Discord-Bot
+```
+
+4. Then type this.
 ```
 npm install
 ```
 
-4. Then go to `.env-sample` and change it to `.env`.
+5. Then go to `.env-sample` and change it to `.env`.
 ```
 DISCORD_TOKEN = YOUR BOT TOKEN
 PREFIX = !
 MONGODB_SRV = YOUR MONGODB DATABASE
 ```
 
-5. Then do this.
+6. Then do this.
 ```
 node .
 ```
