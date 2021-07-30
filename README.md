@@ -1,4 +1,4 @@
-# DBT Discord Bot
+# DBT Discord Bot V12
 
 # What is this?
 ![UpTopImage](https://user-images.githubusercontent.com/75545991/127597772-870c377a-3811-449a-adec-2318df370032.png)
@@ -13,7 +13,7 @@ Here is the list of commands:
 
 `!balance` - Shows your balance.
 
-`!beg`- A way to get money.
+`!beg` - A way to get money.
 
 `!clear (number)` - Same thing as the purge command.
 
