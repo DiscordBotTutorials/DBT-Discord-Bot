@@ -9,35 +9,22 @@ This is a bot is made with **[discord.js](https://discord.js.org/#/)** and that 
 
 Here is the list of commands:
 
-`!avatar` - Shows your avatar.
-
-`!balance` - Shows your balance.
-
-`!beg` - A way to get money.
-
-`!clear (number)` - Same thing as the purge command.
-
-`!deposit (number)` - Put money in your bank.
-
-`!give (number)` - Give people money.
-
-`!image (thing)` - Show an image of your thing.
-
-`!mcserver (link) (port)` - Info on a minecraft server.
-
-`!play (link) or (music name)` - Plays music in vc.
-
-`!stop` - Disconnects.
-
-`!queue` - Shows the music in that queue.
-
-`!search` - Another way to get money.
-
-`!suggestion (your suggestion)` - Suggest anything.
-
-`!ticket`- Opens a ticket.
-
-`!withdraw (number)` - Get money out of the bank.
+Command | Description
+!avatar | Shows your avatar.
+!balance | Shows your balance.
+!beg | A way to get money.
+!clear (number) | Same thing as the purge command.
+!deposit (number) | Put money in your bank.
+!give (number) | Give people money.
+!image (thing) | Show an image of your thing.
+!mcserver (link) (port) | Info on a minecraft server.
+!play (link) or (music name) | Plays music in vc.
+!stop | Stops the music and disconnects.
+!queue | Shows the music in that queue.
+!search | Another way to get money.
+!suggestion (your suggestion) | Suggest anything.
+!ticket | Opens a ticket.
+!withdraw (number) | Get money out of the bank.
 
 # Images
 Here are some of the commands in action.
