@@ -67,6 +67,9 @@ And you are all done!
 
 **Please note that you will need to make some changes in ticket.js and give.js.**
 
+## 🙋‍ Contributing
+If you would like to contribute, please fork this repository and submit a pull request! You can also join the **[discord server](https://discord.gg/PrKvbYGEfC)** or contact me directly on discord at Landon E#0001. Anyone is welcome to suggest new features and improve code quality!
+
 ## 📄 License
 This project is licensed under the MIT License - see the **[LICENSE](https://github.com/DiscordBotTutorials/DBT-Discord-Bot-V12/blob/master/LICENSE)** file for details.
 
