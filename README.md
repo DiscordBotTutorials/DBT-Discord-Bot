@@ -47,7 +47,7 @@ cd DBT-Discord-Bot-V12
 ```
 
 4. Then type this.
-```js
+```
 npm install
 ```
 
@@ -59,7 +59,7 @@ MONGODB_SRV = YOUR MONGODB DATABASE
 ```
 
 6. Then do this.
-```js
+```
 node .
 ```
 
